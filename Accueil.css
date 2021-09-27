@@ -605,7 +605,6 @@
   min-height: 391px;
   margin-top: 0;
   margin-bottom: 60px;
-  height: auto;
 }
 
 .u-section-6 .u-tab-link-1 {
@@ -765,6 +764,10 @@
 }
 
 @media (max-width: 1199px) {
+  .u-section-6 .u-tabs-1 {
+    height: auto;
+  }
+
   .u-section-6 .u-text-3 {
     margin-left: 0;
     margin-right: 0;
